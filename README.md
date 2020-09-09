@@ -1,5 +1,7 @@
 # Aclaraciones
 
+  - Proyecto maven
+  - Se utiliza Spring Boot 2.3.3
   - No se utiliza una capa Servicio
   - No se utiliza una capa DTO
   - Se utiliza una base de datos en memoria
