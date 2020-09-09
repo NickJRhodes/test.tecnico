@@ -13,10 +13,10 @@
   
 # Endpoints
 
-  GET: http://localhost:8080/personas
-  POST: http://localhost:8080/personas Ejemplo cuerpo de la solicitud: {"nombre": "Fernanda", "apellido": "Lopez", "edad": 20, "sexo": "F"}
-  PUT: http://localhost:8080/personas/${id} Ejemplo cuerpo de la solicitud: {"id": 12, "nombre": "Fernanda", "apellido": "Lopez", "edad": 20, "sexo": "F"}
-  DELETE: http://localhost:8080/personas/${id}
+  - GET: http://localhost:8080/personas
+  - POST: http://localhost:8080/personas Ejemplo cuerpo de la solicitud: {"nombre": "Fernanda", "apellido": "Lopez", "edad": 20, "sexo": "F"}
+  - PUT: http://localhost:8080/personas/${id} Ejemplo cuerpo de la solicitud: {"id": 12, "nombre": "Fernanda", "apellido": "Lopez", "edad": 20, "sexo": "F"}
+  - DELETE: http://localhost:8080/personas/${id}
   
   
   Nicolás Rodriguez
